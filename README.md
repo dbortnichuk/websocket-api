@@ -54,6 +54,12 @@ remove table
 {"$type": "remove_table","idx": 1}
 ```
 
+### Scenario
+1. Connect and login as admin from Simple WS client 1
+2. Connect and login as user from Simple WS client 2
+3. Subscribe to tables with client 2
+4. Perform data manipulation with client 1
+
 ### Comments
 As far as I understand task suggests client with UI availability as part of server implementation.
 Haven't implemented client due to lack of time.
