@@ -1,5 +1,5 @@
 
-###Custom WebSocket server
+### Custom WebSocket server
 
 run server
 ```
@@ -54,7 +54,7 @@ remove table
 {"$type": "remove_table","idx": 1}
 ```
 
-###Comments
+### Comments
 As far as I understand task suggests client with UI availability as part of server implementation.
 Haven't implemented client due to lack of time.
 Any specification for UI part ? 
